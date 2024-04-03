@@ -1,0 +1,24 @@
+/* .float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+} */
+
+.ml-10 {
+    margin-left: 232px;
+}
+
+.font-size-small {
+    font-size: 14px;
+}
+
+.px-10 {
+    padding-left: -4px;
+    padding-right: -4px;
+}
+
+.rounded-6 {
+    border-radius: 46px;
+}
